@@ -3,6 +3,14 @@
 **Chapter1 CSSの歴史と問題点**
 ---
 
+CSSはCascading Style Sheetsの略。<br>
+CSSはHTMLのstyle属性を分離したもの。<br>
+
+CSSはすべてがグローバルスコープ。<br>
+⇒ ページ数が増えると複雑になり、管理が大変になる。<br>
+⇒ <u>分離と抽象化でCSS設計することで乗り越えよう（本書のテーマ）</u><br>
+
+Atomic Designを学習することは抽象思考の観点からおすすめ。
 
 **Chapter2 CSS設計の基本と実践**
 ---
